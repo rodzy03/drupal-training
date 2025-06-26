@@ -43,3 +43,8 @@
 .ddev/web-entrypoint.d/
 .ddev/xhprof/
 .ddev/
+
+# Local files
+web/sites/*/settings.local.php
+web/sites/*/services.local.yml
+web/sites/*/files
