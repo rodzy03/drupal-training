@@ -1,0 +1,45 @@
+
+# Generated via composer install
+/vendor
+
+# Ignore PHPStorm / JetBrains project files
+.idea/
+
+# DDEV-generated files
+.ddev/**/*.example
+.ddev/.dbimageBuild
+.ddev/.ddev-docker-*.yaml
+.ddev/.*downloads
+.ddev/.homeadditions
+.ddev/.importdb*
+.ddev/.sshimageBuild
+.ddev/.webimageBuild
+.ddev/apache/apache-site.conf
+.ddev/commands/.gitattributes
+.ddev/config.local.y*ml
+.ddev/config.*.local.y*ml
+.ddev/db_snapshots/
+.ddev/mutagen/mutagen.yml
+.ddev/mutagen/.start-synced
+.ddev/nginx_full/nginx-site.conf
+.ddev/postgres/postgresql.conf
+.ddev/providers/acquia.yaml
+.ddev/providers/lagoon.yaml
+.ddev/providers/pantheon.yaml
+.ddev/providers/platform.yaml
+.ddev/providers/upsun.yaml
+.ddev/sequelpro.spf
+.ddev/traefik/config/d11.yaml
+.ddev/traefik/certs/d11.crt
+.ddev/traefik/certs/d11.key
+.ddev/xhprof/xhprof_prepend.php
+.ddev/addon-metadata/
+.ddev/commands/
+.ddev/db-build/
+.ddev/homeadditions/
+.ddev/mysql/
+.ddev/php/
+.ddev/providers/
+.ddev/web-entrypoint.d/
+.ddev/xhprof/
+.ddev/
