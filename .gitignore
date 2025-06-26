@@ -5,6 +5,10 @@
 # Ignore PHPStorm / JetBrains project files
 .idea/
 
+.gitattributes
+
+.editorconfig
+
 # DDEV-generated files
 .ddev/**/*.example
 .ddev/.dbimageBuild
